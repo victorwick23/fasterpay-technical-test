@@ -5,6 +5,11 @@ module.exports = {
     extend: {
       colors: {
         "primary-blue": "#0E0D52",
+        "secondary-blue": "#CAD5F9",
+        "third-blue": "#2A2E94",
+        "light-blue": "#EDF6FF",
+        "primary-cyan": "#2AF5D6",
+        "border": "#234AFB",
       },
       fontFamily: {
         base: ["Montserrat", "sans-serif"],

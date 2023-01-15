@@ -4,10 +4,10 @@ import DashboardHome from "../components/Layouts/DashboardLayout.vue";
 
 const routes = [
   {
+    // when visiting the home routes it will redirect to page convert money, because we're no yet have home routes
     path: "/",
     name: "DashboardHome",
     redirect: "/convert-money",
-    // component: () => import('../components/partials/LandingPage.vue')
     component: DashboardHome,
     children: [
       {

@@ -1,0 +1,38 @@
+[
+  {
+    "country": "United States",
+    "currency": "USD",
+    "rate": 1,
+    "flag": "USD_Balance.png"
+  },
+  {
+    "country": "Euro",
+    "currency": "EUR",
+    "rate": 0.815894,
+    "flag": "EUR_Balance.png"
+  },
+  {
+    "country": "Canada",
+    "currency": "CAD",
+    "rate": 1.204355,
+    "flag": "CAD_Balance.png"
+  },
+  {
+    "country": "British",
+    "currency": "GBP",
+    "rate": 0.70602,
+    "flag": "GBP_Balance.png"
+  },
+  {
+    "country": "Mexico",
+    "currency": "MXN",
+    "rate": 19.88162,
+    "flag": "MX_Balance.png"
+  },
+  {
+    "country": "Poland",
+    "currency": "PLN",
+    "rate": 3.66121,
+    "flag": "PL_Balance.png"
+  }
+]
